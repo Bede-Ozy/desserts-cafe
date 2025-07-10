@@ -5,7 +5,7 @@ let dessertProducts = [
     name:'Pistachio Baklava', 
     recipe:'Baklava', 
     price:4.00, 
-    image:'../../src/assets/images/baklava.jpg',
+    image:'/images/baklava.jpg',
     desc:'Baklava - Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nisi praesentium vel sint neque modi libero minima. In atque dolores quidem reprehenderit error, sit consequatur est laudantium voluptatibus quod nesciunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni pariatur illum optio sapiente vitae, architecto omnis est natus dolores quam perspiciatis consequuntur, vel sit, veritatis saepe dolorem. Aspernatur, nostrum omnis.'
   },
   {
@@ -14,7 +14,7 @@ let dessertProducts = [
     name:'Waffle with Berries', 
     recipe:'Waffle', 
     price:6.50, 
-    image:'../../src/assets/images/waffle.jpg',
+    image:'/images/waffle.jpg',
     desc:'Waffle with berries - Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nisi praesentium vel sint neque modi libero minima. In atque dolores quidem reprehenderit error, sit consequatur est laudantium voluptatibus quod nesciunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni pariatur illum optio sapiente vitae, architecto omnis est natus dolores quam perspiciatis consequuntur, vel sit, veritatis saepe dolorem. Aspernatur, nostrum omnis.'
   },
   {
@@ -23,7 +23,7 @@ let dessertProducts = [
     name:'Vanilla Bean Crème Brûlée', 
     recipe:'Crème Brûlée', 
     price:7.00, 
-    image:'../../src/assets/images/creme-brulee.jpg',
+    image:'/images/creme-brulee.jpg',
     desc:'Vanilla Bean Creme - Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nisi praesentium vel sint neque modi libero minima. In atque dolores quidem reprehenderit error, sit consequatur est laudantium voluptatibus quod nesciunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni pariatur illum optio sapiente vitae, architecto omnis est natus dolores quam perspiciatis consequuntur, vel sit, veritatis saepe dolorem. Aspernatur, nostrum omnis.'
   },
   {
@@ -32,7 +32,7 @@ let dessertProducts = [
     name:'Macaron Mix of Five', 
     recipe:'Macaron', 
     price:8.00, 
-    image:'../../src/assets/images/macaron.jpg',
+    image:'/images/macaron.jpg',
     desc:'Macaron - Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nisi praesentium vel sint neque modi libero minima. In atque dolores quidem reprehenderit error, sit consequatur est laudantium voluptatibus quod nesciunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni pariatur illum optio sapiente vitae, architecto omnis est natus dolores quam perspiciatis consequuntur, vel sit, veritatis saepe dolorem. Aspernatur, nostrum omnis.'
   },
   {
@@ -41,7 +41,7 @@ let dessertProducts = [
     name:'Classic Tiramisu', 
     recipe:'Tiramisu', 
     price:5.50, 
-    image:'../../src/assets/images/tiramisu.jpg',
+    image:'/images/tiramisu.jpg',
     desc:'Classic Tiramisu - Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nisi praesentium vel sint neque modi libero minima. In atque dolores quidem reprehenderit error, sit consequatur est laudantium voluptatibus quod nesciunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni pariatur illum optio sapiente vitae, architecto omnis est natus dolores quam perspiciatis consequuntur, vel sit, veritatis saepe dolorem. Aspernatur, nostrum omnis.'
   },
   {
@@ -50,7 +50,7 @@ let dessertProducts = [
     name:'Lemon Meringue Pie', 
     recipe:'Pie', 
     price:5.00, 
-    image:'../../src/assets/images/meringue.jpg',
+    image:'/images/meringue.jpg',
     desc:'Lemon Meringue - Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nisi praesentium vel sint neque modi libero minima. In atque dolores quidem reprehenderit error, sit consequatur est laudantium voluptatibus quod nesciunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni pariatur illum optio sapiente vitae, architecto omnis est natus dolores quam perspiciatis consequuntur, vel sit, veritatis saepe dolorem. Aspernatur, nostrum omnis.'
   },
   {
@@ -59,7 +59,7 @@ let dessertProducts = [
     name:'Red Velvet Cake', 
     recipe:'Cake', 
     price:4.50, 
-    image:'../../src/assets/images/cake.jpg',
+    image:'/images/cake.jpg',
     desc:'Red Velvet Cake - Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nisi praesentium vel sint neque modi libero minima. In atque dolores quidem reprehenderit error, sit consequatur est laudantium voluptatibus quod nesciunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni pariatur illum optio sapiente vitae, architecto omnis est natus dolores quam perspiciatis consequuntur, vel sit, veritatis saepe dolorem. Aspernatur, nostrum omnis.'
   },
   {
@@ -68,7 +68,7 @@ let dessertProducts = [
     name:'Salted Caramel Brownie', 
     recipe:'Brownie', 
     price:5.50, 
-    image:'../src/assets/images/brownie.jpg',
+    image:'/images/brownie.jpg',
     desc:'Caramel Brownie - Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nisi praesentium vel sint neque modi libero minima. In atque dolores quidem reprehenderit error, sit consequatur est laudantium voluptatibus quod nesciunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni pariatur illum optio sapiente vitae, architecto omnis est natus dolores quam perspiciatis consequuntur, vel sit, veritatis saepe dolorem. Aspernatur, nostrum omnis.'
   },
   {
@@ -77,7 +77,7 @@ let dessertProducts = [
     name:'Vanilla Panna Cotta', 
     recipe:'Panna Cotta', 
     price:6.50, 
-    image:'../src/assets/images/panna-cotta.jpg',
+    image:'/images/panna-cotta.jpg',
     desc:'Vanilla Panna Cotta - Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nisi praesentium vel sint neque modi libero minima. In atque dolores quidem reprehenderit error, sit consequatur est laudantium voluptatibus quod nesciunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni pariatur illum optio sapiente vitae, architecto omnis est natus dolores quam perspiciatis consequuntur, vel sit, veritatis saepe dolorem. Aspernatur, nostrum omnis.'
   },
 ]
